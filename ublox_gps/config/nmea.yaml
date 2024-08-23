@@ -14,13 +14,13 @@ nmea:
     msk_pos: true
     time: true
     date: true
-    gps_only: true
+    gps_only: false
     track: true
   gnssToFilter:
-    gps: false
+    gps: true
     sbas: true
     qzss: true
-    glonass: false
+    glonass: true
     beidou: true
   main_talker_id: 1
   gsv_talker_id: 1
