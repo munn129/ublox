@@ -1,8 +1,0 @@
-gnss:
-  gps: true
-  glonass: true
-  beidou: true
-  qzss: true
-  qzss_sig_cfg: true
-  galileo: true
-  imes: false
